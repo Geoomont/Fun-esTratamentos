@@ -1,0 +1,1 @@
+from src.controller.score_controller import *

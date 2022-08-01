@@ -1,0 +1,11 @@
+pandas
+fastapi
+uvicorn
+sqlalchemy==1.4.0 
+pymssql
+SQLServer
+xlsxwriter
+azure.identity
+azure.keyvault.secrets
+openpyxl
+uvicorn[standard]
